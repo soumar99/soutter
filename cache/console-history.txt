@@ -1,0 +1,23 @@
+await soutter.tweets(2);
+await soutter.createTweet("natuki", "I am natuki");
+await soutter.tweets(1);
+await soutter.toggleCompleted(1);
+awiat soutter.toggleCompleted(1);
+await soutter.tweets(1).name();
+name
+const name = await soutter.tweets(1).name;
+await soutter.tweets(1).name;
+await soutter.tweets(1);
+await soutter.tweetCount();
+awiat soutter.tweetCount();
+await soutter.createTweet("sou", "hey I am good");
+await soutter.tweetCount();
+const soutter = await Soutter.deploy();
+const Soutter = await ethers.getContractFactory("Soutter");
+await sutter.tweets(1);
+await sutter.tweetCount();
+await sutter.createTweet("sou", "hey i am good");
+await sutter.tweetCount();
+await soutter.tweetCount();
+const sutter = await Soutter.deploy();
+const Soutter = await ethers.getContractFactory("Soutter");
